@@ -1,9 +1,9 @@
 # Atari
-A simple recreation of the classic game Atari
 
-thanks for checking out my github
+An archived C game submission distributed as `Atari.rar`.
 
-for running this code you'll need the ncurses library you can install it using the link below instructions
-https://www.cyberciti.biz/faq/linux-install-ncurses-library-headers-on-debian-ubuntu-centos-fedora/
+Download and extract the archive to access its source. The original project notes specify the ncurses library as a dependency. The archive has not been unpacked or executed in this documentation update, so no build command or runtime compatibility is asserted.
 
-enjoy! :)
+## Original note
+
+A simple recreation of the classic game Atari. The project requires ncurses; consult your operating system's package manager for the library and development headers.
